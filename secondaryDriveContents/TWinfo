@@ -1,0 +1,1 @@
+ID,TimeWindowID,Reads,AverageLastNreadsPTW,Writes,AverageLastNwritesPTW,AverageEntropies,AverageLastNentropies,BackedTF,TimeTookInS

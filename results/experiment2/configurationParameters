@@ -1,0 +1,5 @@
+maxReads=85000
+maxWrites=1000
+maxEntropy=5.0
+timeWindowLength=0.5s
+slidingWindowSize=2

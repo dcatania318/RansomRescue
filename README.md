@@ -120,7 +120,7 @@ The directory *results/* contains the results obtained from the evaluation of *R
 
 The *configurationParameters* file in each experiment directory contains the configuration parameters used within that experiment.
 
-NOTE: Due to large file size, the *diskSectors* file for every session of every experiment is to be obtained from *Google Drive*:
+##### NOTE: Due to large file size, the *diskSectors* file for every session of every experiment is to be obtained from [*Google Drive*](https://drive.google.com/open?id=1g9kJvaBo2QslH3l29bfnhOs5O0Oj0hYw).
 
 
 The following is a brief overview of what the files within every session contain:
